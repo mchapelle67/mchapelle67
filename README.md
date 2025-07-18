@@ -24,7 +24,7 @@ My examen project, soon online ! [Click here for see it.](https://github.com/mch
 The biggest project I've worked, in collaboration with @marineWF3 as her student. 
 Soon online ...  😁
 
-![Uploading Screenshot 2025-07-18 at 11-56-40 Accueil.png…]()
+<img width="800" height="485" alt="image" src="https://github.com/user-attachments/assets/91c28963-30ec-446c-b49c-6599abfdfcd0" />
 
 
 ### ⚛️ FORUM 
