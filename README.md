@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/d8e64812-f6c6-444e-99ad-456591c1a99e)
 
-I'm currently enrolled in a **Professional Title of Web & Mobile Developer**, and will soon begin training as an **Application Designer & Developer**.
+I’m a graduate of the **Professional Title of Web & Mobile Developer** and will soon begin training as an **Application Designer & Developer**.
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,symfony,js,mysql,bootstrap,figma,git)](https://skillicons.dev)
