@@ -15,7 +15,7 @@ You can check out my work here on GitHub.
 
 ### 🚗 2JC Automobiles  
 
-My examen project, soon online ! [Click here for see it.](https://github.com/mchapelle67/projet2JC)
+My examen project, online ! [Click here for see the repository.](https://github.com/mchapelle67/projet2JC) | [Click here for see the website online.](https://2jc-automobiles.fr)
 
 <img width="1500" height="6154" alt="readme" src="https://github.com/user-attachments/assets/ac6cc845-6bc1-484c-ae3f-19a53d37667c" />
 
