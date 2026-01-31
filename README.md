@@ -1,8 +1,8 @@
 # Hello everyone 👋
 
-![image](https://github.com/user-attachments/assets/d8e64812-f6c6-444e-99ad-456591c1a99e)
+![Cover](/couverture_linkedin.png)
 
-Hi, I’m Manon! I’m a **freelance web developer** and the founder of **Digital MC**, passionate about creating seamless web experiences.
+Hi, I’m Manon ! I’m a **freelance web developer** and the founder of **Digital MC**, passionate about creating seamless web experiences.
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,js,html,css,mysql,figma,git,postman)](https://skillicons.dev)
@@ -17,13 +17,11 @@ A collaborative project aimed at designing and developing a personal portfolio w
 
 [Click here for see the website online.](https://dev-mates.com)
 
-<img width="1500" height="6154" alt="readme" src="https://github.com/user-attachments/assets/ac6cc845-6bc1-484c-ae3f-19a53d37667c" />
 
 ### 🚗 2JC Automobiles  
 
 My examen project, online ! [Click here for see the repository.](https://github.com/mchapelle67/projet2JC) | [Click here for see the website online.](https://2jc-automobiles.fr)
 
-<img width="1500" height="6154" alt="readme" src="https://github.com/user-attachments/assets/ac6cc845-6bc1-484c-ae3f-19a53d37667c" />
 
 
 ### 🚐 SLOWCROSSERS 
@@ -31,7 +29,6 @@ The biggest project I've worked, in collaboration with @marineWF3 as her student
 
 [Click here for see the website online.](https://www.slowcrossers.com)
 
-<img width="800" height="485" alt="image" src="https://github.com/user-attachments/assets/91c28963-30ec-446c-b49c-6599abfdfcd0" />
 
 📫 **Contact me** : manon.chp68@gmail.com
 🌐 **LinkedIn** : [@manon-chapelle67](https://www.linkedin.com/in/manon-chapelle67/) | [Digital MC](https://www.linkedin.com/company/digital-mc68)
