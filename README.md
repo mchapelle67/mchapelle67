@@ -2,16 +2,23 @@
 
 ![image](https://github.com/user-attachments/assets/d8e64812-f6c6-444e-99ad-456591c1a99e)
 
-I’m a graduate of the **Professional Title of Web & Mobile Developer** and will soon begin training as an **Application Designer & Developer**.
+Hi, I’m Manon! I’m a **freelance web developer** and the founder of **Digital MC**, passionate about creating seamless web experiences.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,symfony,js,mysql,bootstrap,figma,git)](https://skillicons.dev)
-
-I'm always open to learning new technologies !
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,js,html,css,mysql,figma,git,postman)](https://skillicons.dev)
 
 ## 💻 Current Project
 
 You can check out my work here on GitHub.  
+
+### 🌐 Dev Mates
+
+A collaborative project aimed at designing and developing a personal portfolio website. Focused on clean, responsive design and modern web development best practices, showcasing skills, projects, and professional experience in a clear and engaging way.
+
+[Click here for see the website online.](https://dev-mates.com)
+
+<img width="1500" height="6154" alt="readme" src="https://github.com/user-attachments/assets/ac6cc845-6bc1-484c-ae3f-19a53d37667c" />
+
 
 ### 🚗 2JC Automobiles  
 
@@ -22,26 +29,12 @@ My examen project, online ! [Click here for see the repository.](https://github.
 
 ### 🚐 SLOWCROSSERS 
 The biggest project I've worked, in collaboration with @marineWF3 as her student. 
-Soon online ...  😁
+
+[Click here for see the website online.](https://www.slowcrossers.com)
 
 <img width="800" height="485" alt="image" src="https://github.com/user-attachments/assets/91c28963-30ec-446c-b49c-6599abfdfcd0" />
 
-
-### ⚛️ FORUM 
-[Show my project !](https://github.com/mchapelle67/forumPlateau_v2)
-
-<img width="1000" height="1280" alt="image" src="https://github.com/user-attachments/assets/81cd0d20-fb02-4e77-902f-4ab3b6a51e7c" />
-
-### 🍺 BEERGARDEN 
-[Show my project !]()
-
-<img width="1895" height="3389" alt="image" src="https://github.com/user-attachments/assets/c00d37a8-f6e2-45b4-a4b8-e7143526b473" />
+📫 **Contact me** : manon.chp68@gmail.com
+🌐 **LinkedIn** : [@manon-chapelle67](https://www.linkedin.com/in/manon-chapelle67/) | [Digital MC](https://www.linkedin.com/company/digital-mc68)
 
 
-## 🚀 Looking Ahead
-
-I'm actively looking for a company to join for my upcoming **Application Designer & Developer (Concepteur Développeur d'Applications)** training.
-
-If you're interested in collaborating or hiring, feel free to reach out — I'd love to connect!
-
-📫 **Contact me**: manon.chp68@gmail.com
