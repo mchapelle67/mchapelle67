@@ -17,20 +17,30 @@ A collaborative project aimed at designing and developing a personal portfolio w
 
 [Click here for see the website online.](https://dev-mates.com)
 
+![Demo 1](dm.gif)
+
 
 ### 🚗 2JC Automobiles  
 
-My examen project, online ! [Click here for see the repository.](https://github.com/mchapelle67/projet2JC) | [Click here for see the website online.](https://2jc-automobiles.fr)
+A complete web solution for a car dealership, including a showcase website presenting available vehicles and services, as well as a full management application for vehicle inventory and appointments. This project demonstrates both front-end and back-end skills, providing a seamless user experience for customers and staff alike.
 
+[Click here for see the repository.](https://github.com/mchapelle67/projet2JC) | [Click here for see the website online.](https://2jc-automobiles.fr)
+
+![Demo 2](jc_compressed.gif)
 
 
 ### 🚐 SLOWCROSSERS 
-The biggest project I've worked, in collaboration with @marineWF3 as her student. 
+A social platform designed for digital nomads to connect, including features such as friends maps to see where connections are around the world, instant messaging for real-time communication, friend's requests ...
+This is the biggest project I’ve worked on during my internship, developed in collaboration with @marineWF3 as her student.
 
 [Click here for see the website online.](https://www.slowcrossers.com)
 
+![Demo 3](sc.gif)
 
-📫 **Contact me** : manon.chp68@gmail.com
+## 📫 Contact me
+
+📧 **Mail** : manon.chp68@gmail.com
+
 🌐 **LinkedIn** : [@manon-chapelle67](https://www.linkedin.com/in/manon-chapelle67/) | [Digital MC](https://www.linkedin.com/company/digital-mc68)
 
 
