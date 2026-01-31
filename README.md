@@ -7,7 +7,7 @@ Hi, I’m Manon! I’m a **freelance web developer** and the founder of **Digita
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,js,html,css,mysql,figma,git,postman)](https://skillicons.dev)
 
-## 💻 Current Project
+## 💻 Last Projects
 
 You can check out my work here on GitHub.  
 
@@ -18,7 +18,6 @@ A collaborative project aimed at designing and developing a personal portfolio w
 [Click here for see the website online.](https://dev-mates.com)
 
 <img width="1500" height="6154" alt="readme" src="https://github.com/user-attachments/assets/ac6cc845-6bc1-484c-ae3f-19a53d37667c" />
-
 
 ### 🚗 2JC Automobiles  
 
